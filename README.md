@@ -64,3 +64,6 @@
 
 Посилання на репозиторій
 Прикрiплений файл репозиторію у форматi zip Важливо Переглянь Iнструкцію щодо завантаження робочого файлу з репозиторію на Github
+
+
+https://www.figma.com/file/lk2nnqK0kv6PSnFYwtf6By/Web-Studio-(Version-4.0)-(Copy)?type=design&node-id=296708-626&mode=design&t=yHNnQdhX6cxg4ixb-0
