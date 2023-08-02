@@ -18,11 +18,13 @@
 
     /* #region typography */
 
+     /* #region Main text/p */
     --font-family: "Roboto", sans-serif;
     --font-weight: 400;
     --font-size: 16px;
     --letter-spacing: 0.02em;
     --line-height: 1.5;
+    /* #endregion Main text/p */
 
     /* #region Title/Header 1 */
     --h1-font-weight: 700;
