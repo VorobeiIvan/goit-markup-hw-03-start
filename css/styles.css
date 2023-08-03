@@ -160,9 +160,7 @@ address {
 .main-header,
 .header-navigation,
 .nav-list,
-.address-list,
-.filter-list,
-.card-list {
+.address-list {
     display: flex;
     align-items: center;
    
@@ -333,7 +331,7 @@ address {
 
     background-color: var(--color-white-background);
     border-radius: 0px 0px 4px 4px;
-    background: var(--white, #FFF);
+    background: var(--color-white-background);
     box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
@@ -360,9 +358,13 @@ address {
 
 
 /* Portfolio */
-.filter-list {row-gap: 24px;
-}
+.filter-list { display: flex;
+    row-gap: 24px;
 
+}
+.portfolio-card {
+    justify-content: space-between;
+}
 .filter-button {
     padding: 12px 24px;
     margin-bottom: 72px;
@@ -380,6 +382,9 @@ address {
 .card-list{
 flex-wrap: wrap;
 gap:48px 24px;
+justify-content: space-between;
+
+
 }
 
 .card-list-item {
